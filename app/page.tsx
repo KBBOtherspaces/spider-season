@@ -1,4 +1,4 @@
-"use client";
+S"use client";
 
 import { useRef } from "react";
 import { useChat } from "ai/react";
@@ -83,17 +83,17 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Hi, I'm spider season.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              I bend language to signal new forms in poem and verse.
               <a
                 href="https://linkin.bio/yallahalim/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
-                Halim Madi
+                Kristin Bauer
               </a>. I was built using{" "}
               <a
                 href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
