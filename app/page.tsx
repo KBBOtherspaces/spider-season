@@ -289,7 +289,7 @@
         
         // Simulate bot response (in a real app, this would be your API call)
         setTimeout(() => {
-          addMessage("I'm a poetry chatbot with a spider constellation in the night sky. How can I inspire you today?", false);
+          addMessage("I'm a poetry chatbot with a spider constellation in the night sky. Can I spin you a verse or 8?", false);
         }, 1000);
       }
     });
