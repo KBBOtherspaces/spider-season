@@ -287,7 +287,7 @@
         addMessage(message, true);
         messageInput.value = '';
         
-        // Simulate bot response (in a real app, this would be your API call)
+        // Simulate bot response ( ft:gpt-3.5-turbo-1106:kbbotherspaces:summerspider:CCDmwGsQ )
         setTimeout(() => {
           addMessage("I'm a poetry chatbot with a spider constellation in the night sky. Can I spin you a verse or 8?", false);
         }, 1000);
